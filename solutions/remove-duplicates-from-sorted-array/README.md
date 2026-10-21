@@ -3,6 +3,6 @@
 - Difficulty: Easy
 - LeetCode problem: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 - Language: cpp
-- Runtime: n/a
-- Memory: 22456000
+- Runtime: 1
+- Memory: 22604000
 - Solved: 2026-10-21
